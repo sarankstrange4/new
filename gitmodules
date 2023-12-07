@@ -1,0 +1,3 @@
+[submodule "piano_transcription_inference"]
+	path = piano_transcription_inference
+	url = https://github.com/nnethery/piano_transcription_inference
